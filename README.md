@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=Wave&color=F26B83&height=300&section=header&text=Hello,%20I'm%20Go%20Hana&fontSize=70)
  ### Front-end Developer 👋
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahago&&show_icons=true&theme=material-palenight)
+<div>
