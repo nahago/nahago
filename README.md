@@ -1,8 +1,9 @@
+
+### Hello, I'm Go Hana, a front-end developer. 👋
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hello,%20I'm%20Go%20Ha%20na&fontSize=70)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahago&&show_icons=true&theme=buefy)
-
-### Hi there 👋
 
 <!--
 **nahago/nahago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
