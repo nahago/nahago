@@ -1,7 +1,7 @@
-
-### Hello, I'm Go Hana, a front-end developer. 👋
+### Front-end Developer 👋
 
 ![header](https://capsule-render.vercel.app/api?type=Wave&color=F26B83&height=300&section=header&text=Hello,%20I'm%20Go%20Ha%20na&fontSize=70)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahago&&show_icons=true&theme=buefy)
 
