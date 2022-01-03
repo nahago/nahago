@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Wave&color=F26B83&height=300&section=header&text=Hello,%20I'm%20Go%20Hana&fontSize=70)
- ### Front-end Developer 👋
+![header](https://capsule-render.vercel.app/api?type=Wave&color=F26B83&height=300&section=header&text=Hello,%20I'm%20Go%20Ha%20na&fontSize=70)
+
+### 👋 Hi there, 
+I'm hana Go, a Front-end developer. 🌱
+Daily routine ☕,👩‍💻,🧘
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahago&&show_icons=true&theme=material-palenight)
-
